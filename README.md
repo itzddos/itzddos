@@ -3,7 +3,7 @@
 # Abunassyr Dosmukhambetov
 ### Software Engineer
 
-Python · Backend · RPA · Automation
+Python · Backend · AI Engineering · Machine Learning · RPA · Automation
 
 </div>
 
