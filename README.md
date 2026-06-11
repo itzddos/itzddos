@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**itzddos/itzddos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abunassyr Dosmukhambetov
+### Software Engineer
 
-Here are some ideas to get you started:
+Python · Backend · RPA · Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About
+
+Software Engineer with hands-on experience in Python backend development, REST API design, Robotic Process Automation (RPA), and workflow automation. I build scalable, maintainable systems — from backend services and browser extensions to full automation pipelines — following clean architecture principles and modern engineering practices.
+
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+`Python` `Django` `FastAPI` `HTML` `CSS`
+
+**Backend & Databases**
+`REST APIs` `PostgreSQL` `MySQL` `SQL` `Redis` `Celery`
+
+**Automation & RPA**
+`Robotic Process Automation` `Selenium` `Workflow Automation` `Scripting`
+
+**DevOps & Tooling**
+`Git` `Docker` `Linux` `CI/CD` `Unit Testing`
+
+**AI & ML**
+`PyTorch` `TensorFlow` `Machine Learning` `AI Engineering` `Prompt Engineering`
+
+**Networking**
+`Cisco CCNA` `Routing & Switching` `VLANs` `Network Security`
